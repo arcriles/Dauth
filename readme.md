@@ -52,7 +52,7 @@ pip install pyserial tkinter
 Run the Python app after the Arduino setup:
 
 ```
-python your_app.py
+python Python_App_Code.py
 ```
 
 ---
@@ -63,7 +63,7 @@ python your_app.py
 2. **Run the Python App** using the command:
 
    ```
-   python your_app.py
+   python Python_App_Code.py
    ```
 
 3. **Connect** to the ESP8266, input the correct password, and use the GUI to scan networks and perform deauth attacks.
