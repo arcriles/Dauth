@@ -3,7 +3,7 @@
 
 ## **Overview**
 
-**Dauth** is a desktop-based application for controlling an ESP8266 Wi-Fi deauther over a USB connection. Unlike traditional deauthers, which rely on an access point for control, Dauth enhances security by using a USB connection and requiring a password to unlock its functionality. The Python-based Tkinter GUI allows you to scan for Wi-Fi networks, select specific SSIDs, and perform deauthentication attacks after verifying the correct password.
+**Dauth** is a desktop-based application for controlling an ESP8266 Wi-Fi deauther over a USB connection (using spacehuhn library, all credits goes to SpaceHuhn). Unlike traditional deauthers, which rely on an access point for control, Dauth enhances security by using a USB connection and requiring a password to unlock its functionality. The Python-based Tkinter GUI allows you to scan for Wi-Fi networks, select specific SSIDs, and perform deauthentication attacks after verifying the correct password.
 
 **Note**: This tool is meant for educational purposes only. It should only be used in a legal and ethical manner. Deauth attacks can disrupt Wi-Fi communications and are illegal in many regions.
 
