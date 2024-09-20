@@ -73,3 +73,6 @@ python your_app.py
 ## **Security Disclaimer**
 
 This tool is intended for educational purposes and security testing of your own network. Ensure you have permission before running deauth attacks on any network. Misuse of this tool is illegal in many regions and can result in severe penalties.
+
+
+## ***p.s:*** _the code shown is still in progress and needed to be updated, will be updated at some time after working_
